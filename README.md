@@ -39,13 +39,13 @@
 >Dataset 3 - Dataset-1_ETL&Visualisation.ipynb<br />
 
 
-##### 3 pulling structured data 1, data 2, data 3  to merge all the datasets using inner joint and visualizing and storing the resultant dataset in PostgreSQL 
+##### 3 Pulling structured datasets from postgresql and merging all the datasets using inner joint and visualizing and storing the merged resultant dataset in PostgreSQL 
 ###### ETL Process such as: Data extraction, Data cleaning, Pre-processing, Loading, Transforming, Data visualization
 > Merging dataset 1 and 2 - MERGED_RESULTANT_DATASET_1.ipynb<br />
 > Visualzing the dataset 2 and 3 - Visualizing_Resultant_Dataset.ipynb<br />
 
 ## MASTER_DO_NOTEBOOK
-##### Run the MASTER_DO_NOTEBOOK.ipynb file to run all the files parallelly and see all the results and visualization. This handle separate files of an overall task. This file will run all the files sequentially and gives the visualized result of all the jupyter notebook files
+##### When we run the MasterFile.ipynb file we can see all the results and visualization. This handle separate files of an overall task. This file will run all the files sequentially and gives the visualized result of all the jupyter notebook files
 > MasterFile.ipynb
 
 Note: Run the MasterFile.ipynb file to run all the files sequentially and see all the results and visualization. This shows the outcome and their visualizations
